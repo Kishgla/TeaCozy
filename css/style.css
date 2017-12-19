@@ -62,6 +62,31 @@ nav a {
   margin-bottom: 10px;
 }
 
+.featured {
+  padding-top: 40px;
+}
+
+.products {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.products span {
+  padding: 0 15px 0 15px;
+}
+
+.products span img {
+  height: 200px;
+  width: 300px;
+}
+
+.products span h4 {
+  margin-top: 10px;
+}
+
+
+
 /*temp*/
 div {
   border: 1px solid red;
