@@ -85,7 +85,28 @@ nav a {
   margin-top: 10px;
 }
 
+.locations {
+  background-image: url("../images/img-locations-background.jpg");
+  height: 500px;
+}
 
+.addresses {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.addresses span {
+  background-color: black;
+  opacity: 1;
+  width: 300px;
+  margin: 0 20px 0 20px;
+}
+
+.addresses span p {
+
+  padding: 10px 0 10px 0;
+}
 
 /*temp*/
 div {
