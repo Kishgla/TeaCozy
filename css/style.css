@@ -108,7 +108,8 @@ nav a {
   padding: 10px 0 10px 0;
 }
 
-/*temp*/
-div {
-  border: 1px solid red;
+.copyright {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 20px;
 }
